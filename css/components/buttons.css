@@ -1,0 +1,19 @@
+.button-primary {
+  background-color: #839D9A;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.1px;
+  padding: 8px 16px;
+  color: azure;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: .3s;
+  display: inline-block;
+  box-shadow: 0 1px 10px rgb(0 0 0);
+}
+
+.button-primary:hover {
+  background-color: #16425B;
+  color:#FFF;
+  transition: .3s;
+}

@@ -1,0 +1,13 @@
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.container h1, p {
+  color: azure;
+  text-shadow: 0 1px 10px rgb(0 0 0);
+}
+
+.container h2 {
+  text-align: center;
+}
